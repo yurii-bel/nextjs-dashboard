@@ -1,5 +1,5 @@
-## Next.js App Router Course - Starter
+# Next.js Dashboard Project
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+## Introduction
+This project is a dashboard built using Next.js, designed to provide a comprehensive interface for displaying and managing data dynamically. It leverages the power of React and the simplicity of Next.js to deliver a fast, server-rendered dashboard experience.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
